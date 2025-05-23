@@ -10,5 +10,3 @@ Hello! I’m a researcher/developer passionate about data science and statistics
 - 📚 **Python (Pandas, Scikit-learn), R, and SQL**
 
 My goal is to extract meaningful insights from data and build decision support systems and predictive models. I’m especially focused on financial data analysis, credit scoring, and customer segmentation.
-
-📂 I will be adding projects, notebooks, and annotated code here soon. Stay tuned!
