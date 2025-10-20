@@ -1,12 +1,15 @@
-# 📊 Mini Data Science Introduction (MDSI)
+# Hi, I'm Uğur Özer 👋
 
-Hello! I’m a researcher/developer passionate about data science and statistics. In my projects, I actively work with:
+- Mathematics & Computer Science graduate from Istanbul Kültür University
+- Passionate about data analytics and statistics
+- Skills: Python, JavaScript, MATLAB, Pandas, NumPy, Matplotlib, React
+- Frontend Developer Intern @ Istanbul Metropolitan Municipality
+- Certificates: Machine Learning with Python, Data Science with KNIME, Statistics for Data Science
 
-- 📈 **Statistical modeling**
-- 🤖 **Machine learning**
-- 🧹 **Data cleaning and preprocessing**
-- 📊 **Visualization (Seaborn, Matplotlib, Plotly)**
-- 🧠 **Prediction and classification algorithms**
-- 📚 **Python (Pandas, Scikit-learn), R, and SQL**
+**Contact:**  
+- Email: u.ozer7050@gmail.com  
+- GitHub: [uozer7050](https://github.com/uozer7050)
 
-My goal is to extract meaningful insights from data and build decision support systems and predictive models. I’m especially focused on financial data analysis, credit scoring, and customer segmentation.
+---
+
+*Always learning, always curious!*
