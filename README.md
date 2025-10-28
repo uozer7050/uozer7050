@@ -8,7 +8,6 @@
 
 **Contact:**  
 - Email: u.ozer7050@gmail.com  
-- GitHub: [uozer7050](https://github.com/uozer7050)
 
 ---
 
